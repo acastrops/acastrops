@@ -1,10 +1,9 @@
 
 ### Hi there, I'm Adriana 👋
 
-- 🔭 I currently a Sr. Data Scientist at Tech Data, in Clearwater, FL
-- 🌱 I’m currently learning everything I can squeeze into my free time 
+- 🔭 I am currently a data science manager at TD Synnex and a data science instructor
+- 🌱 This page has my school projects from when I could barely string two lines of code together. I choose to leave it up so my students can see progress isn't always linear.
 - 👯 I’m looking to collaborate with other data scientists and analysts
-- 🥅 2021 Goals: Contribute more to Open Source projects and pick up Rust or C++
 - ⚡ Fun fact: I love dogs and thrift stores
 
 ### Connect with me:
